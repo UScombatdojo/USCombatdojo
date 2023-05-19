@@ -147,15 +147,6 @@ footer p {
     
 }
 
-#container img{
-	float: left;
-	margin-right: 2%;
-	border: 20px double;
-	border-radius: 10px;
-	text-align: right;
-    background-color: #E4F2EA;
-
-}
 
 .frame{
 	position: relative;
